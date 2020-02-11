@@ -1,2 +1,2 @@
 const num = 50;
-const text = 'Hello World';
+const text = 'Hello Kotlin';
